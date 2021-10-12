@@ -20,7 +20,7 @@ basic.forever(function(){
 })
 ```
 
-## Steg 3
+## Steg 3 @showhint
 Trykk på de av de 25 ledlysene som skal være aktive og lyse. Trykk igjen for å fjerne lyset.
 
 ``` blocks
@@ -57,7 +57,7 @@ basic.forever(function(){
   })
 ```
 
-## Steg 5
+## Steg 5 @showhint
 Trykk på punktene som skal lyse her også.
 
 ``` blocks
