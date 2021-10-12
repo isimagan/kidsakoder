@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutorials/animasjon.md"
+        "tutorials/animasjon.md",
+        "tutorials/kast-en-terning.md"
     ],
     "testFiles": [
         "test.ts"
